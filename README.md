@@ -11,3 +11,7 @@ docker run -it --runtime=nvidia springernlp/chapter_12ds:latest
 
 The container will start a jupyter notebook. 
 Follow the commands inside the Chapter 12 notebook.
+
+
+## Book Reference
+More information can be found at: [Deep Learning for NLP and Speech Recognition](https://www.amazon.com/Deep-Learning-NLP-Speech-Recognition/dp/3030145956) by [Springer](https://www.springer.com/us/book/9783030145958) 
